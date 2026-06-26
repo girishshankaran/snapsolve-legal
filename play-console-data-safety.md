@@ -103,7 +103,6 @@
 | Razorpay | Payment info | Indian payment processing | [Link](https://razorpay.com/privacy/) |
 | Stripe | Payment info | International payment processing | [Link](https://stripe.com/privacy) |
 | Render | All backend data | Hosting & database | [Link](https://render.com/privacy) |
-| HuggingFace | Homework images | OCR verification | [Link](https://huggingface.co/privacy) |
 
 ---
 
@@ -138,7 +137,6 @@
 - Razorpay (Indian payments)
 - Stripe (International payments)
 - Render (hosting)
-- HuggingFace (OCR verification)
 
 ### Encryption: Yes, all data encrypted in transit
 ### Deletion: Yes, users can delete their account and all associated data
